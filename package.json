@@ -2,7 +2,6 @@
   "name": "simple-text-chat",
   "version": "1.0.0",
   "description": "Using node.js and socket.io",
-  "main": "app.js",
   "scripts": {
     "test": "app.js"
   },
